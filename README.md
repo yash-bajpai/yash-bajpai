@@ -81,7 +81,7 @@ I enjoy working on problems where software engineering meets data, performance, 
 <div align="center">
 
 <a href="https://github.com/yash-bajpai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-bajpai&repo=DocGraph-AI&theme=tokyonight&hide_border=true" alt="DocGraph AI repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-bajpai&repo=DocGraph-master&theme=tokyonight&hide_border=true" alt="DocGraph AI repository card"/>
 </a>
 
 </div>
