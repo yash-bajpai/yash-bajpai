@@ -80,8 +80,8 @@ I enjoy working on problems where software engineering meets data, performance, 
 
 <div align="center">
 
-<a href="https://github.com/YASH_GITHUB_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YASH_GITHUB_USERNAME&repo=DocGraph-AI&theme=tokyonight&hide_border=true" alt="DocGraph AI repository card"/>
+<a href="https://github.com/yash-bajpai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-bajpai&repo=DocGraph-AI&theme=tokyonight&hide_border=true" alt="DocGraph AI repository card"/>
 </a>
 
 </div>
@@ -179,13 +179,13 @@ A document parsing pipeline built to extract structured case information from la
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YASH_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yash-bajpai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-bajpai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASH_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-bajpai&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
